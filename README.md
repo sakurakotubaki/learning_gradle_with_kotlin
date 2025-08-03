@@ -74,3 +74,5 @@ person.also {
 
 - [Kotlin 公式ドキュメント - ラムダ式](https://kotlinlang.org/docs/lambdas.html)
 - [Kotlin 公式ドキュメント - スコープ関数](https://kotlinlang.org/docs/scope-functions.html)
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/sakurakotubaki/learning_gradle_with_kotlin?utm_source=oss&utm_medium=github&utm_campaign=sakurakotubaki%2Flearning_gradle_with_kotlin&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
